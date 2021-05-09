@@ -1,3 +1,4 @@
+![Horiseon](https://user-images.githubusercontent.com/30817557/117582551-5c5c7900-b0b7-11eb-9053-f60d2904392b.png)
 # Code Refactor Starter Code
 
 ## Changes with HTML
@@ -22,4 +23,4 @@ Combined classes(.benefit-lead, .benefit-brand, .benefit-cost) styles to erase d
 
 Combined clases (.search-engine-optimization img,.online-reputation-management, .social-media-marketing) styles for same purpose to erase duplicated codes.
 
-![alt text](https://github.com/coding-boot-camp/urban-octo-telegram/blob/main/Develop/assets/images/digital-marketing-meeting.jpg)
+
