@@ -21,3 +21,9 @@ Changed the <div> attributes in search links section by using <nav> attribute in
 Combined classes(.benefit-lead, .benefit-brand, .benefit-cost) styles to erase duplicated codes.
 
 Combined clases (.search-engine-optimization img,.online-reputation-management, .social-media-marketing) styles for same purpose to erase duplicated codes.
+<<<<<<< HEAD
+=======
+
+
+![Horiseon](https://user-images.githubusercontent.com/30817557/117582551-5c5c7900-b0b7-11eb-9053-f60d2904392b.png)
+>>>>>>> 80b3a9434e833519392a5556ad134135d6557d21
