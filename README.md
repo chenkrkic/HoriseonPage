@@ -21,3 +21,5 @@ Changed the <div> attributes in search links section by using <nav> attribute in
 Combined classes(.benefit-lead, .benefit-brand, .benefit-cost) styles to erase duplicated codes.
 
 Combined clases (.search-engine-optimization img,.online-reputation-management, .social-media-marketing) styles for same purpose to erase duplicated codes.
+
+![alt text](file:///Users/jiajiechen/Desktop/projects/challange1/urban-octo-telegram-main/Develop/index.html)
